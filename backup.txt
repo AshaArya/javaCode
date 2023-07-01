@@ -1,0 +1,94 @@
+for (char j = 'a';j<=110;j++)
+{
+    System.out.printf("%d * %c = %c",6,j,j+1).println();
+}
+for (char j = 'a';j<=124;j++)
+{
+    System.out.printf("%d * %c = %c",6,j,j+1).println();
+}
+for(int i=1;;i++) {
+    System.out.printf("%d",i);
+}
+for(int i=1;i<=10;i++) {
+    System.out.printf("%d",i);
+}
+for(int i=1;i<=10;i++) {
+    System.out.printf("%d",i).println();
+}
+for(int i=10;i<=10;i--) {
+    System.out.printf("%d",i).println();
+}
+for(int i=10;i>=10;i--) {
+    System.out.printf("%d",i).println();
+}
+for(int i=10;i<=10;i--) {
+    System.out.printf("%d",i).println();
+}
+for(int i=20;i<=10;i--) {
+    System.out.printf("%d",i).println();
+}
+for(int i=20;i>=10;i--) {
+    System.out.printf("%d",i).println();
+}
+for(int i=10;i>=10;i--) {
+    System.out.printf("%d",i).println();
+}
+for(int i=10;i>=1;i--) {
+    System.out.printf("%d",i).println();
+}
+for(int i=1;i<=10;i++) {
+    System.out.printf("%d",i*2).println();
+}
+for(int i=1;i<=10;i++) {
+    System.out.printf("%d",i*i).println();
+}
+for(int i=2;i<=10;i++) {
+    System.out.printf("%d",i*i).println();
+}
+for(int i=2;i<=10;i=i+2) {
+    System.out.printf("%d",i*i).println();
+}
+for(int i=2;i<=20;i=i+2) {
+    System.out.printf("%d",i*i).println();
+}
+for(int i=2;i<=20;i+=2) {
+    System.out.printf("%d",i*i).println();
+}
+for(int i=1;i<=20;i+=2) {
+    System.out.printf("%d",i*i).println();
+}
+for(int i=1;i<=20;i+=2) {
+    System.out.printf("%d",i*i).println();
+}
+for(int i=1;i<=10;i++) {
+    System.out.printf("%d",i).println();}
+ int i=1;
+for(; i<=10;i++);
+i
+int j;
+for(i=1,j=2; i<=10;i++,j++);
+j
+i
+System.out.println("Hello Asha");
+ System.out.println("Hello Asha");
+void sayHelloWorldTwice()
+{
+   System.out.println("Hello Asha");
+    System.out.println("Hello Asha");
+}
+sayHelloWorldTwice()
+void sayFourStatement()
+{
+    System.out.println("I've created my first variable");
+    System.out.println("I've created my first method");
+    System.out.println("I've created my first loop");
+    System.out.println("I'm exitied to learn java");
+}
+sayFourStatement()
+void sayHelloWorldThrice()
+{
+    System.out.println("Hello Asha");
+    System.out.println("Hello Asha");
+    System.out.println("Hello Asha");
+}
+sayHelloWorldThrice()
