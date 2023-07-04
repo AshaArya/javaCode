@@ -1,6 +1,7 @@
-Class Planet {
-Void revolve()
+Class Planet 
+{
+    Void revolve()
  {
-   System.out.ln("Revolve");
+   System.out.println("Revolve");
 }
 }
